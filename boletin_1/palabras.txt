@@ -1,0 +1,40 @@
+Python
+Kubernetes
+Programación Orientada a Objetos
+Principios Solid
+Caracola
+Patata
+Monigote
+Coche
+Base de Datos
+Angular
+Kebab
+Muela
+Chocolate
+Rueda
+Pino
+Cuadro
+Arena
+Tetris
+Casa
+Cactus
+Perro
+Dragon
+Pantalon
+Droga
+Madera
+Lampara
+Papel
+Mapa
+Cargador
+Mochila
+Telefono
+Impresora
+Taza
+Cajon
+Mesa
+Libro
+Estanteria
+Silla
+Sofa
+Cactus
